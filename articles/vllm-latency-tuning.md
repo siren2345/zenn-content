@@ -1,5 +1,5 @@
 ---
-title: "ローカルLLMの「遅い」を半分に — vLLMの地味な2設定(prefix caching と max-num-batched-tokens)"
+title: "ローカルLLMの「遅い」を半分に — vLLMの地味な2設定(prefix cachingとバッチサイズ)"
 emoji: "⚡"
 type: "tech"
 topics: ["local-llm", "llm", "nvidia", "performance"]
