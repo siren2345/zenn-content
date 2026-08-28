@@ -3,7 +3,7 @@ title: "WSL2 で KV が足りなかった話 → ベアメタル Linux で KV �
 emoji: "🚀"
 type: "tech"
 topics: ["local-llm", "llm", "nvidia", "vllm", "wsl"]
-published: false
+published: true
 ---
 
 # はじめに
